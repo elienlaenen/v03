@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_1643",
-    "currentPage": "fotografie.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -80,7 +80,9 @@
     ],
     "uniqCompNum": 59,
     "versionPublish": "4.8.3",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "page1.html": {
