@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-03_1643",
-    "currentPage": "home.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3938,7 +3938,7 @@
         }
       ]
     },
-    "home.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
